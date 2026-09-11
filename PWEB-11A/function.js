@@ -2,7 +2,14 @@
 // Identifier = nama fungsi
 // () parentheses=> parameter
 // {} curly braces => isi dari fungsi yang akan berjalan
-//Untuk mengembalikan atau memberikan output dari fungsi nya
+// Untuk mengembalikan atau memberikan output dari fungsi nya
+// Argumen adalah nilai yang diberikan didalam parentheses atau () saat pemanggilan dan pembuatan function
+// 
+//
+//
+//
+//
+//
 function greetWorld(){
     console.log("Hello World");
 }
@@ -61,3 +68,6 @@ function kaliTiga(number) {
     }
     
 }
+
+
+
