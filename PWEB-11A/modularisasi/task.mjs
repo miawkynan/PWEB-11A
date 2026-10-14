@@ -1,0 +1,3 @@
+// bbuat 2 funtion di dalam satu file bernama config.mjs function pertama returnnya adalah array dengan 5 elemen, tiap index array adalah function yang berkaitan dengan nama function, function kedua returnnya adalah object dengan 5 property, tiap property adalah funtion yang berkaitan dengan nama property
+
+// Panggil kedua funtion tersebut di dalam satu file bernama main.mjs, lalu panggil semua function yang ada di dalam kedua function tersebut menggunalan masing-masing cara pemanggilan array atau object 
